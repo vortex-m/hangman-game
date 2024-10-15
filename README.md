@@ -1,6 +1,6 @@
 # Hangman Game 🎮
 
-![Hangman Game Screenshot](client/src/assets/Screenshot 2024-10-15 215457.png)
+![Hangman Game Screenshot](./client/src/assets/hangman_screenshot.png)
 
 Welcome to the **Hangman Game**, a modern take on the classic word-guessing challenge! This project is built using **React** and **Vite** and offers a simple, interactive UI where users can guess letters to reveal a hidden word before the hangman drawing is complete.
 
